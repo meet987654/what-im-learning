@@ -5,4 +5,8 @@
 
 -TAILWIND CSS(DONE)
 
--EXPRESS JS ➡
+-EXPRESS JS (DONE)
+
+-MongoDB (DONE)
+
+-NEXT JS➡️
